@@ -12,8 +12,8 @@
 <!-- <a href="https://www.instagram.com/selenophile2799">
   <img align="left" alt="Vaishali's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
 </a> -->
-<br />
-<br />
+
+---
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
@@ -32,7 +32,6 @@
   💬 ask me about anything [here](mailto:vaishalimahour8@gmail.com) :)
 
   <br/>
-  <br/>
 
   **languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
@@ -45,9 +44,8 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
+---
 
-<br />
-<br />
 <!-- <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" /> -->
 
@@ -55,13 +53,16 @@
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Vaishali2127/github-readme-stats)
 
+  <br />
+  <br />
 
-  <br />
-  <br />
-  <br />
 </div>
-
 
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaishali2127&show_icons=true&theme=gotham" alt="Vaishali2127" />
+
+---
+
+### <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29px'> Here's some humor for you:
+<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" />
 
