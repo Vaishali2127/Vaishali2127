@@ -16,7 +16,8 @@
 <br />
 hi, i'm Vaishali
 <!-- [Vaishali](https://abhishknads.me/), -->
- a passionate self-taught front end web developer. my passion for web development with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build.
+ a passionate self-taught front end web developer. my passion for web development with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
 
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   <br />
@@ -34,11 +35,17 @@ hi, i'm Vaishali
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
 
 <br />
 <br />
-<div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+<!-- <div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" /> -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Vaishali2127/github-readme-stats)
+
+
   <br />
   <br />
   <br />
