@@ -10,14 +10,14 @@
 <br />
 hi, i'm Vaishali
 <!-- [Vaishali](https://abhishknads.me/), -->
- a passionate self-taught front end web developer from india. my passion for web designing with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build.
+ a passionate self-taught front end web developer. my passion for web development with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build.
 
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
   <br />
   <br />
   <br />
 
-  <!-- 💬 ask me about anything, i am happy to help , [email](mailto:vaishalimahour8@gmail.com) :) -->
+  💬 ask me about anything [here](mailto:vaishalimahour8@gmail.com) :)
 
 
   **languages and tools:**  
