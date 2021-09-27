@@ -6,6 +6,10 @@
 <a href="https://www.linkedin.com/in/vaishali-180a1320a/">
   <img align="left" alt="Vaishali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
+<a href="https://www.instagram.com/selenophile2799">
+  <img align="left" alt="Vaishali's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
+</a>
 <br />
 <br />
 hi, i'm Vaishali
@@ -13,7 +17,6 @@ hi, i'm Vaishali
  a passionate self-taught front end web developer. my passion for web development with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build.
 
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-  <br />
   <br />
   <br />
 
