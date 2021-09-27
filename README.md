@@ -15,10 +15,6 @@
 
 <a href="https://www.instagram.com/selenophile2799" target="_blank"><img height="24" src="/assets/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<!-- <a href="https://www.instagram.com/selenophile2799">
-  <img align="left" alt="Vaishali's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a> -->
-
   <br/>
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
@@ -32,9 +28,6 @@
  - I'm a Night 🦉 
 
 
-
-  <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
-
   💬 ask me about anything [here](mailto:vaishalimahour8@gmail.com) :)
 
   <br/>
@@ -47,16 +40,10 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<!-- <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> -->
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 
 ---
-
-<!-- <div align="center">
-  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" /> -->
-
-  <br />
   <br />
 
 </div>
