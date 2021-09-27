@@ -14,7 +14,9 @@
 </a> -->
 <br />
 <br />
-hi, i'm Vaishali
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+
+- hi, i'm Vaishali
 <!-- [Vaishali](https://abhishknads.me/), -->
  - a passionate self-taught front end web developer. my passion for web development with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
