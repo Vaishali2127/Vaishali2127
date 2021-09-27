@@ -39,7 +39,7 @@
 
   <br/>
 
-  **languages and tools:**  
+  ** 🔧 languages and tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -55,10 +55,6 @@
 <!-- <div align="center">
   <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" /> -->
 
-<div align="center">
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Vaishali2127/github-readme-stats)
-
   <br />
   <br />
 
@@ -67,10 +63,10 @@
 <h1 align="center"> 📊 My GitHub Stats: </h1>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaishali2127&show_icons=true&theme=gotham" alt="Vaishali2127" />
 
-<br>
-  <a href="https://github.com/anuragVhazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vaishali2127&bg_color=0d1117&text_color=FFF&border_color=444">
-  </a>
+<div align="center">
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vaishali2127&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Vaishali2127/github-readme-stats)
+
 
 ---
 
