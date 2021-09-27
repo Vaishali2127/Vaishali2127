@@ -17,11 +17,14 @@
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-hi, i'm Vaishali
+** hi, i'm Vaishali **
 <!-- [Vaishali](https://abhishknads.me/), -->
  - a passionate self-taught front end web developer. my passion for web development with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
  - 👯 We can connect to play some games of Chess ♟
+
+ - I'm a Night 🦉 
+
 
 
   <!-- <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /> -->
@@ -62,4 +65,3 @@ hi, i'm Vaishali
 📈 my github stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaishali2127&show_icons=true&theme=gotham" alt="Vaishali2127" />
 
-**I'm a Night 🦉** 
