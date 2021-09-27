@@ -1,4 +1,10 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+<!-- ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> -->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);System.out.println(%22Hello%2C%20World!%22);print(%22Hello%2C%20World!%22);printf(%22Hello%2C%20World!%22);fmt.Println(%22Hello%2C%20World!%22);println!(%22Hello%2C%20World!%22);cout%20%3C%3C%20%22Hello%2C%20World!%22&center=true&size=27&width=550">
+  </a>
+</h1>
+
 <a href="https://discord.com/channels/https://discord.com/channels/Vaishali27#0673">
   <img align="left" alt="Vaishali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
@@ -58,8 +64,13 @@
 
 </div>
 
-📈 my github stats
+<h1 align="center"> 📊 My GitHub Stats: </h1>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Vaishali2127&show_icons=true&theme=gotham" alt="Vaishali2127" />
+
+<br>
+  <a href="https://github.com/anuragVhazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Vaishali2127&bg_color=0d1117&text_color=FFF&border_color=444">
+  </a>
 
 ---
 
