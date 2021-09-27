@@ -7,9 +7,11 @@
   <img align="left" alt="Vaishali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-<a href="https://www.instagram.com/selenophile2799">
+<a href="https://www.instagram.com/selenophile2799" target="_blank"><img height="30" src="https://image.flaticon.com/icons/svg/725/725278.svg"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<!-- <a href="https://www.instagram.com/selenophile2799">
   <img align="left" alt="Vaishali's Instagram" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/instagram.svg" />
-</a>
+</a> -->
 <br />
 <br />
 hi, i'm Vaishali
