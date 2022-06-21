@@ -17,7 +17,7 @@
 
   <br/>
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="15px"> About Me:
 
 ### Hi, I'm Vaishali
 <!-- [Vaishali](https://abhishknads.me/), -->
