@@ -5,43 +5,35 @@
   </a>
 </h1>
 
-<a href="https://discord.com/channels/https://discord.com/channels/Vaishali27#0673">
-  <img align="left" alt="Vaishali's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
-</a>
 
-<a href="https://www.linkedin.com/in/vaishali-180a1320a/">
-  <img align="left" alt="Vaishali's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
+<h3>Hi, I'm <a href="https://vaishali-codes.vercel.app/"> Vaishali </a> <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></h1> 
 
-<a href="https://www.instagram.com/vaishali__2703/" target="_blank"><img height="24" src="/assets/instagram.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-  <br/>
-
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="15px"> About Me:
-
-### Hi, I'm Vaishali
 <!-- [Vaishali](https://abhishknads.me/), -->
- - a passionate self-taught front end web developer. my passion for web development with dreaming up ideas and making them come true with elegant interfaces. i take great care in the architecture, and code quality of the things I build.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+As a forward-thinking Frontend Developer with proficient knowledge in ReactJS, NextJS, TailwindCSS, HTML, CSS, styled-components, Firebase, REST APIs, Redux, I have cultivated a track record for developing and deploying seamless and high-performance web applications. I am particularly adept at transitioning legacy static sites to scalable and interactive platforms. My troubleshooting acumen, attention to detail, and commitment to delivering quality have been instrumental in enhancing user experience and business objectives in the various projects I've handled.
 
  - 👯 We can connect to play some games of Chess https://www.chess.com/member/vaishali2799
 
- - I'm a Night 🦉 
 
-
-  💬 ask me about anything [here](mailto:vaishalimahour8@gmail.com) :)
+  💬 ask me about anything [here](https://vaishali-codes.vercel.app/contact.html) :)
 
   <br/>
 
   **🔧 languages and tools:**  
   <br/>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"/></code>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/bootstrap/bootstrap.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"/></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png"></code>
 
 ---
   <br />
